@@ -21,7 +21,7 @@
     "react-native-openalpr": "^2.0.3",
     "react-native-paper": "^3.3.0",
     "react-native-permissions": "^2.0.8",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-screens": "^2.0.0-alpha.19",
     "react-native-vector-icons": "^6.6.0",
     "react-native-view-shot": "^3.0.2",
